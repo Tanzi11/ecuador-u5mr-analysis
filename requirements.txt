@@ -1,0 +1,5 @@
+pysyncon
+wbgapi
+pandas
+matplotlib
+jupyter
