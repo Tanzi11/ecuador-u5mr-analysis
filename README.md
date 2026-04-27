@@ -45,6 +45,9 @@ reproducible from the API pull.
 | GDP per capita (constant 2015 USD) | NY.GDP.PCAP.KD |
 
 ## Results
+![Path Plot](outputs/path_plot.png)
+![Gaps Plot](outputs/gaps_plot.png)
+![Placebo Plot](outputs/placebo_plot.png)
 
 Donor weights assigned by the optimizer:
 
