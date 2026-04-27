@@ -46,8 +46,16 @@ reproducible from the API pull.
 
 ## Results
 ![Path Plot](outputs/path_plot.png)
+
+*Figure 1: Actual vs. synthetic Ecuador under-5 mortality rate (per 1,000 live births), 1982–2022. The synthetic control is constructed from a weighted combination of Bolivia, Colombia, Dominican Republic, Mexico, Paraguay, and Peru. The dashed vertical line indicates the 1992 treatment year.
+
 ![Gaps Plot](outputs/gaps_plot.png)
+
+*Figure 2: Gap in under-5 mortality rate between actual and synthetic Ecuador, 1982–2022. Negative values indicate Ecuador achieved lower mortality than the synthetic counterfactual. The modest persistent gap post-1992 was not statistically distinguishable from donor country placebos in placebo testing.
+
 ![Placebo Plot](outputs/placebo_plot.png)
+
+*Figure 3: Placebo test results. Ecuador's post-treatment gap (black line) compared against gaps from donor country placebos (gray lines). Ecuador's gap sits within the distribution of placebo gaps, suggesting the observed effect is not statistically significant at conventional levels.
 
 Donor weights assigned by the optimizer:
 
